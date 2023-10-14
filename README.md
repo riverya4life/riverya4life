@@ -1,11 +1,16 @@
-# 💫 About Me:
-- 👋 Hi, I’m [@riverya4life](https://github.com/riverya4life)
-- 🍀 My real name is Andrew
-- 👀 I'm interested in Python and I'm also working on a project called [FistashkinBot](https://github.com/fistashkinbot/FistashkinBot) (Discord Bot)
-- 🌱 I also write **Lua Scripts** for the game Grand Theft Auto San Andreas Multiplayer (SAMP)
-- 📃 Planning to learn C++
+# Hi there 👋
+**🍀 I'm [Riverya4life](https://github.com/riverya4life) (he/him)** - I'm a junior Python and Lua developer.
+- 👀 I'm interested in developing, moderating and creating interesting projects for communities. In my free time, I study new programming languages for myself, such as C++, JavaScript, Lua, etc... 
+- 📃 I’m working on my project called [FistashkinBot](https://github.com/fistashkinbot/FistashkinBot-Old-Source) for Discord, and I also write scripts for the game GTA: SAMP!
 
-# 💻 Tech Stack:
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=riverya4life&theme=dark&hide_border=false&include_all_commits=true&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=riverya4life&theme=dark&hide_border=false&layout=compact&hide_border=false&include_all_commits=true&count_private=false)
+<a href="#">![](https://skillicons.dev/icons?i=js,nodejs,py,html,css,sqlite,lua,mongodb,visualstudio,vscode,idea,discord,md,cpp,kotlin)</a><br/>
+
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">
+  
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=riverya4life&show_icons=true&theme=dark&hide_border=true&icon_color=f28a00" />
+    <img width="37.5%", src="https://github-readme-stats.vercel.app/api/top-langs/?username=riverya4life&theme=dark&hide_border=true&layout=compact" />
+  </a>
+</details>
