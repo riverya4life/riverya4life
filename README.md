@@ -11,8 +11,9 @@
 [![](https://discord.c99.nl/widget/theme-4/668453200457760786.png)](https://discord.gg/Q69xQnzR6m)
 ---
 ### My Projects:
-- [LunarisPrjkt](https://github.com/riverya4life/LunarisPrjkt) for SAMP
-- [FistashkinBot](https://github.com/fistashkinbot/FistashkinBot-Beta) for Discord
+- [LunarisPrjkt](https://github.com/riverya4life/LunarisPrjkt) - A script for Grand Theft Auto: San Andreas Multiplayer that makes your gameplay a bit more convenient by adding new features!
+- [FistashkinBot](https://github.com/fistashkinbot/FistashkinBot-Beta) - A simple, multi-purpose Discord bot created with love. Ranking, automod, music, and much more~
+- [PC Waveform](https://github.com/riverya4life/PC-Waveform) - Oscillogram of system audio from a PC (WASAPI loopback) shown in a modern dark-themed interface.
 ---
 
 ### **Github Stats ⚡**
