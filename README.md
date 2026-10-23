@@ -23,9 +23,7 @@
 ---
 
 ### **Github Stats ⚡**
-  
 <a href="#">
-  
-<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=riverya4life&show_icons=true&theme=dark&hide_border=true&icon_color=f28a00" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=riverya4life&show_icons=true&theme=dark&hide_border=true&icon_color=f28a00" />
   <img width="37.5%", src="https://github-readme-stats.vercel.app/api/top-langs/?username=riverya4life&theme=dark&hide_border=true&layout=compact" />
 </a>
